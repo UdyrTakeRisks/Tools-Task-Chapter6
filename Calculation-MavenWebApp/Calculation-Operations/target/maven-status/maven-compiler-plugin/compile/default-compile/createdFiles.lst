@@ -1,0 +1,5 @@
+com/redhat/task/model/Calculation.class
+com/redhat/task/model/CalculationResult.class
+com/redhat/task/model/Calculation_.class
+com/redhat/task/rest/CalculationService.class
+com/redhat/task/rest/Service.class
